@@ -2,7 +2,7 @@
 Built using Ionic & Angular, Bootstrap CSS.
 
 ## Motivation
-2-day Workshop on HTML, CSS, Angular, Ionic by Autonise
+2-day Workshop on HTML, CSS, Angular, Ionic by [Autonise](https://github.com/Autonise-AI)
 
 ## Development server
 
